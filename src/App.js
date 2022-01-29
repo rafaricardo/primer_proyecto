@@ -8,8 +8,8 @@ const Descripcion = () => {
 const App = () => {
   return (
     <div className='App'>
-      <Mensaje color="red" title="Estamos trabajando" />
-      <Mensaje color="blue" title="en mi primer" />
+      <Mensaje color="red" title="Estamos trabajando en" />
+      <Mensaje color="blue" title="mi primer" />
       <Mensaje color="green" title="curso de React"/>
       <Descripcion />
     </div>
